@@ -447,6 +447,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0500;
+				TargetAttributes = {
+					C5F71641163E97CF005B34D1 = {
+						DevelopmentTeam = W6L39UYL6Z;
+					};
+				};
 			};
 			buildConfigurationList = C5F71637163E9776005B34D1 /* Build configuration list for PBXProject "Ashton" */;
 			compatibilityVersion = "Xcode 3.2";
